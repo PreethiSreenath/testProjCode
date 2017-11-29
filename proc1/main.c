@@ -6,5 +6,6 @@ int main()
 	printf("Hello world from proc1\n");
 	printf("Hello from newbranch1\n");
 	printf("Data in seconds : %ld\n",time(NULL));
+	printf("Adding new file\n");
 	return 1;
 }
